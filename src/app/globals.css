@@ -5,8 +5,9 @@
 }
 
 :root {
-  --background: #050505;
+  --background: #050000;
   --foreground: #ffffff;
+  --accent: #FF3333;
 }
 
 body {
@@ -23,6 +24,6 @@ body {
 
 /* Custom selection color */
 ::selection {
-  background-color: #00FFCC;
-  color: #000000;
+  background-color: #FF3333;
+  color: #ffffff;
 }
